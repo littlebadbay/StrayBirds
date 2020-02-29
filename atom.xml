@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://littlebadbay.github.com/blog</id>
+    <id>https://www.ztefm.com</id>
     <title>ztefm</title>
-    <updated>2020-02-29T13:34:18.822Z</updated>
+    <updated>2020-02-29T13:36:01.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://littlebadbay.github.com/blog"/>
-    <link rel="self" href="https://littlebadbay.github.com/blog/atom.xml"/>
-    <logo>https://littlebadbay.github.com/blog/images/avatar.png</logo>
-    <icon>https://littlebadbay.github.com/blog/favicon.ico</icon>
+    <link rel="alternate" href="https://www.ztefm.com"/>
+    <link rel="self" href="https://www.ztefm.com/atom.xml"/>
+    <logo>https://www.ztefm.com/images/avatar.png</logo>
+    <icon>https://www.ztefm.com/favicon.ico</icon>
     <rights>All rights reserved 2020, ztefm</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://littlebadbay.github.com/blog/post/hello-gridea/</id>
-        <link href="https://littlebadbay.github.com/blog/post/hello-gridea/">
+        <id>https://www.ztefm.com/post/hello-gridea/</id>
+        <link href="https://www.ztefm.com/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
